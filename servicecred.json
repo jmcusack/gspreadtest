@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bellapython",
+  "private_key_id": "5df898bebf41fa528eefa5be51a5d76129e6ff19",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgrk/t1wlFt1xH\nmIu3eWIpowNVq01HfqbqPbDsajzkuSvPP30X5DZlizpn1dCJjfKz5zLYT/twpnVf\nzBDzbvAFQi69xaGokgEe74+YeiipJR5FSPPusstAsgAbPvnm9N3CX3jKGauYtrUQ\nSR1cldsydvwoUw08QXtMV7BTmlxC8X+zupqkZs/eRjZZh5iLHtgAo6QUbuOEJ2Pz\nnfCiUfVN4INBg0P6/E6ISRuN4LqvNuEsZJLSWX+vVBKE3jRr/rjzYeYnnaDNp0wL\n8ljTdVgKuJapGsB8NkJJSvqK588WOFDwtUL2QrO564Xd97A+jwVgmVCzJICgJPgo\nhD37gaTfAgMBAAECggEATGzuskvtkwHSiWYJzIClE92n0jnBQTsDIvWWG2ztxq14\nCfiiIADYQgUwekaAN3IJ5wkTQgI+2Kw+i7X55BxN17QR+yphGVqEuBWr5iVTdGm0\nWMP+eajmu1xw7dOnpNiRID9icnh15q3rfB0quCYfWBSiJENP4rmxa5/+UgnVLU2e\nQrMsxxaq9Ju5j7XZw9hO64/iG2KeQNE7dy902qm4wYgtSdkxbcxD/F8k58SvhIai\ngGQ4o4lozTeBL1BVUSvpllN4VTgnmdaPf++wTkykyP5vOq6Kl8rAJEANN+UUBzqJ\ns1OSk9bp2qBQVGEa9KA9pD0rXLfd12VpboQHCSpWsQKBgQDzCxHAS7aseAPX4+Uq\n1KDuFCGWr5eTqxXlaObYF/elu2ljsrQxUUfCWoFbhWvZQaMSIO2ZbSPwZ+PCnahP\nkjq1sbImbFPea0EH5BMKh/4XU8HHxBBd2zFCwK9hgQugr828MHMx3Da1lS31Qbs2\n4rj1D/bNyJq0gb1wuaMfVMdgUQKBgQDsqKSiBwW/piWLAWXM/aBuQHesxGH5zSpp\nIDAPDDz0J0KazmH8eIYvR64jafDE3Z296SwCJJiBRHvgmAqzytQZMAwDRUyWG+8J\n7ApGZl9n7JWqRxLbaRiFbXg6egvoh6HS+hY2M2cl41m4c2I+6942zYKzT0gwvFwM\nHc4XNqAWLwKBgQDyGPqrtD/Y+QvLB+YFjhxoS4FR2sOAgxGinaYlZ2p2moLWnvJD\nlhWHEiR9CCBwH6PSsR48kK0WEkacW/OGn8D/sGwnPg0lJ2118MjO2rxOfE4xMaqj\n823Ucp/A3oy4maa0aQa2igetRVasUbetapaW9joArmz8laghG6nT0d1woQKBgH/t\nAWFcbm0UgMLNNJxElU5Dpu1LErMXhk9hSNk5glFwT36jBTCWbeJs2uLlx3KDYVth\nCZr28UEfJd9YEKDziQc8g6HY+fdCjkpMv5kiiXwB1T1AQh88hjbJ3+2sP3eoqX8E\nFLGjw6Qla0BbjsX4dhwlpvsKZjmB+DfMfLTroEmdAoGBALzXph0tve5zgvSpiBdF\nqaVKcah3komnQsPP4f6Gn7YlObDP6pgDdG6hO4iUFtjAyX1MWiGvhRX1oCVcq9WF\nF7YDaWhU6Kzxt59U8qrG9gXrcmJSALI7eElkMMqkptiOta8Mw/RnAoQ8hgHR1+B7\nzjLOUIxV6OXwV/PLpw48RCCv\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonscript@bellapython.iam.gserviceaccount.com",
+  "client_id": "103497914595636219518",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonscript%40bellapython.iam.gserviceaccount.com"
+}
